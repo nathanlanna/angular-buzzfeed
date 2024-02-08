@@ -66,5 +66,17 @@
     align-items: center;
 
 }
-
+.btn__share{
+    border:#18ab29 1px solid;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: Segoe UI;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.btn__share:hover{
+    background-color: #5cbf2a;
+}
 
